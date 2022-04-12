@@ -15,5 +15,5 @@ Finally, I face reality: python is to slow for this, but a solution to this may 
 Next objectif:
   Develop a machine learning algorithm do accelerate the image processing
 
-                                                                                                                    Thanks you for your time
-                                                                                                                    Clement Yahia-Amar
+                                                                                                                 Thanks you for your time
+                                                                                                                 Clement Yahia-Amar
